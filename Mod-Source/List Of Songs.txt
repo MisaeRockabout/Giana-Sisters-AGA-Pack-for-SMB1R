@@ -1,0 +1,29 @@
+thanks for checking the source modules!, if you have a tracker or mod player
+you can play these in a lossless way, and they take up less space!
+how convenient! i decided to keep these here as a bonus, but to the point of this TXT.
+this lists where all the songs come from, who arranged them. etc etc. if we lack credits thats OK. 
+ill update it next time. the songs that are just straight rips from the original AREN'T included in this folder do note. 
+only the edits and covers.
+
+BGM:
+Title Screen - Loader - Great Giana Sisters Original 
+Overworld - Level Theme 1 - Great Giana Sisters Original
+Underground - Borelix's Cave 1 - Giana's Return - Covered by MisaeRockabout!
+Athletic/Sky - Level Theme 1 - Great Giana Sisters J2ME mixed with Level Theme 2 - Great Giana Sisters Original - Covered by MisaeRockabout!
+Castle - Level Theme 2 - Great Giana Sisters Original
+Desert - (NOT ADDED YET)
+Underwater - Ice World - Giana Worlds - Covered by Poke-Brother
+Snow - (NOT ADDED YET)
+Airship - (NOT ADDED YET)
+Garden - (NOT ADDED YET)
+Bonus - (NOT ADDED YET)
+Volcano - (NOT ADDED YET)
+Ghost House - (NOT ADDED YET)
+Pipe Land - (NOT ADDED YET)
+Space - (NOT ADDED YET)
+
+Jingles
+Pipe Themes shortened by MisaeRockabout!
+Starman - Starman - Super Mario Bros. - Covered by MisaeRockabout!
+Player Death - Death Jingle - Giana's Return - Covered by MisaeRockabout!
+Level Clear - Level Clear Jingle - Giana's Return - Covered by MisaeRockabout!

@@ -1,0 +1,19 @@
+{
+	"animations": {
+		"default": {
+			"frames": [[0, 0, 9, 15]],
+			"speed": 15,
+			"loop": true
+		}
+	},
+	"variations": {
+		"default": {"source": "FireFlower.png"},
+		"Underground": {"source": "FireFlower.png"},
+		"GhostHouse": {"link": "Underground"},
+		"Castle": {"source": "FireFlower.png"},
+		"Snow": {"source": "FireFlower.png"},
+		"Space": {"source": "FireFlower.png"},
+		"Volcano": {"source": "FireFlower.png"},
+		"Bonus": {"source": "FireFlower.png"}
+	}
+}

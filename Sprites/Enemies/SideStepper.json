@@ -1,0 +1,21 @@
+{
+	"animations": {
+		"Walk": {
+			"frames": [
+				[0, 0, 24, 24],
+				[24, 0, 24, 24]
+			],
+			"speed": 5,
+			"loop": true
+		},
+		"Angry": {
+			"frames": [
+				[48, 0, 24, 24],
+				[72, 0, 24, 24]
+			],
+			"speed": 10,
+			"loop": true
+		}
+	},
+	"variations": {"source": "SideStepper.png"}
+}

@@ -1,0 +1,10 @@
+{
+	"animations": {
+		"default": {
+			"frames": [[0, 0, 8, 8]],
+			"speed": 5,
+			"loop": true
+		}
+	},
+	"variations": {"source": "SpinningCoin.png"}
+}

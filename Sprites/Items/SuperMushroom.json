@@ -1,0 +1,19 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[0, 0, 18, 15],
+				[18, 0, 18, 15],
+				[36, 0, 18, 15],
+				[54, 0, 18, 15]
+			],
+			"speed": 16,
+			"loop": true
+		}
+	},
+	"variations": {
+		"SMB1": {"source": "SuperMushroom.png"},
+		"SMBLL": {"source": "SuperMushroom.png"},
+		"SMBANN": {"link": "SMBLL"}
+	}
+}

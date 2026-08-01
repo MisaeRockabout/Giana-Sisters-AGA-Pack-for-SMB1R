@@ -1,0 +1,19 @@
+{
+	"animations": {
+		"default": {
+			"frames": [
+				[0, 0, 18, 15],
+				[18, 0, 18, 15],
+				[36, 0, 18, 15],
+				[54, 0, 18, 15]
+			],
+			"speed": 16,
+			"loop": true
+		}
+	},
+	"variations": {
+		"SMB1": {"source": "1UP.png"},
+		"SMBLL": {"source": "1UP.png"},
+		"SMBANN": {"link": "SMBLL"}
+	}
+}

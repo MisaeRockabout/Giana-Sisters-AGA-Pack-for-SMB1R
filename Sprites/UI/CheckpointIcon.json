@@ -1,0 +1,8 @@
+{
+	"variations": {
+		"default": {
+			"source": "CheckpointIcon.png", 
+                        "rect": [0, 0, 73, 17]
+		}
+	}
+}
